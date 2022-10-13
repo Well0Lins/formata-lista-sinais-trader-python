@@ -1,4 +1,4 @@
-<h1> formata-lista-sinais-trader-python </h1>
+<h1> Formatar lista de sinais binários em python </h1>
 <p>Um pequeno sistema criado para formatar uma lista de sinais de trader para enviar nas redes sociais que um amigo solicitou.</p>
 
 
